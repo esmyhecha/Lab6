@@ -11,7 +11,7 @@ def encode_input(input_e):
 
 def main():
 1    while True:
-        print()
+        print() #this is me making a change 
         print("Menu")
         print("-------------")
         print("1. Encode")
