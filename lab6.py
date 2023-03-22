@@ -10,8 +10,8 @@ def encode_input(input_e):
 
 
 def main():
-1    while True:
-        print() #this is me making a change 
+   while True: #comment of my change for the rubric
+        print()
         print("Menu")
         print("-------------")
         print("1. Encode")
